@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 105,
+    "height" : 157
+  }, {
+    "width" : 209,
+    "height" : 313
+  }, {
+    "width" : 417,
+    "height" : 625
+  }, {
+    "width" : 834,
+    "height" : 1250
+  }, {
+    "width" : 1667,
+    "height" : 2500
+  }, {
+    "width" : 3333,
+    "height" : 5000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3333,
+  "@id" : "https://Dream4873.github.io/Fashion/images/Trousers",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5000
+}
